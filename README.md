@@ -1,2 +1,2 @@
-# hello-world
+# myproject
 Helloworld repository
